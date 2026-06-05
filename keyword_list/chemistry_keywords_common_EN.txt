@@ -220,7 +220,6 @@ hydrate
 hydration reaction
 hydride
 hydrocarbon
-hydrogen
 hydrogen bond
 hydrogenation
 hydrolysis
