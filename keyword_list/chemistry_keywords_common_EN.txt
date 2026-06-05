@@ -1,0 +1,486 @@
+absorbance
+acetyl
+acetylene
+achiral
+acid anhydride
+acid dissociation constant
+acid-base extraction
+acid-base reaction
+actinides
+activated complex
+activation energy
+activity series
+actual yield
+addition reaction
+adduct
+adsorption
+aeration
+aldehyde
+aliphatic
+alkoxy
+alkyl
+alkyne
+allomer
+allotrope
+amide
+ammoniacal
+amorphous solid
+amphipathic
+amphiprotic
+amphoteric
+amyl nitrite
+analyte
+anhydrous
+anion
+annulation
+anode
+anomer
+aprotic
+aqua regia
+aquation
+aromatic
+aromaticity
+Arrhenius acid
+Arrhenius base
+aryl
+atmolysis
+autoignition temperature
+Avogadro constant
+Avogadro number
+Azeotrope
+base anhydride
+basicity
+bench chemistry
+biochemistry
+boiling flask
+boiling point
+boiling point elevation
+bond angle
+buffered solution
+burette
+butyl
+calorific value
+carbanion
+carbide
+carbinyl
+carbocation
+carbonic acid
+carbonization
+carboxyl
+carboxylic acid
+catalyst
+cathode
+cation
+cell potential
+centrifugation
+centrifuge
+chain reaction
+chalcogens
+chelating agent
+chelation
+chemical
+chemical bond
+chemical composition
+chemical compound
+chemical decomposition
+chemical element
+chemical formula
+chemical law
+chemical nomenclature
+chemical physics
+chemical process
+chemical reaction
+chemical substance
+chemical synthesis
+chemistry
+chirality
+chromatography
+chromometer
+classical chemistry
+closed system
+colligative property
+colloid
+colorimeter
+combustion
+concatemer
+condosity
+conjugate acid
+conjugate base
+conjugated system
+constitutional isomer
+constitutional unit
+convection
+cooling curve
+coordinate chemistry
+coordinate covalent bond
+coordination complex
+corrosion
+coulomb
+counterion
+covalent bond
+cryogenic storage dewar
+crystallization
+crystallization point
+crystallography
+cuvette
+dalton
+dative bond
+debye
+deionization
+deliquescence
+delocalized electron
+denticity
+depression of freezing point
+desiccant
+desiccation
+deuterium
+deuteron
+dianion
+diastereomer
+diatomic
+diatomic molecule
+dilatant
+dimer
+dipolar bond
+dipolar ion
+dipole moment
+dispersion
+distillation
+double bond
+double decomposition
+double displacement
+double replacement reaction
+double salt
+dropping point
+ductility
+dystectic mixture
+effective molecular diameter
+electric dipole moment
+electrical resistivity
+electride
+electrochemical cell
+electrochemistry
+electrolyte
+electronvolt
+electrophile
+electrosynthesis
+elementary reaction
+elution
+emulsion
+enantiomer
+enantiomorph
+end group
+endothermic process
+enplethy
+enthalpy
+enthalpy of fusion
+enthalpy of vaporization
+environmental chemistry
+epimer
+Eppendorf tube
+equation of state
+equilibrium vapor pressure
+equimolar
+ester
+ether
+ethyl
+eutectic mixture
+exothermic process
+extensive property
+extrinsic property
+filtration
+first-order reaction
+flash point
+flocculation
+Florence flask
+formal charge
+fractional distillation
+free radical
+freeze drying
+freezing point
+freezing point depression
+galvanic cell
+gas chromatography
+general gas equation
+geochemistry
+Gibbs energy
+glycol
+gramatom
+ground glass joint
+ground state
+hadron
+halogen
+halogens
+hard acid
+hard water
+heat of fusion
+heat of vaporization
+heavy water
+hydrate
+hydration reaction
+hydride
+hydrocarbon
+hydrogen
+hydrogen bond
+hydrogenation
+hydrolysis
+hydron
+hydroxide
+hydroxy
+hydroxyl group
+hygroscopy
+ideal gas
+ideal gas constant
+induced radioactivity
+inert gas
+inner salt
+inorganic chemistry
+inorganic compound
+insolubility
+inspissation
+intensive property
+intermetallic
+intermolecular force
+interstitial compound
+intramolecular force
+intrinsic property
+ion
+ionic bond
+ionic strength
+ionization
+isoelectronicity
+isomer
+isomerization
+isomers
+isotope
+joule
+kelvin
+keto acid
+ketoacid
+ketone
+kindling point
+lanthanides
+lanthanoids
+lattice energy
+laws of thermodynamics
+leveling effect
+Lewis acid
+Lewis base
+ligand
+liquefaction
+liquefaction point
+liquid-liquid extraction
+locant
+London dispersion forces
+lyophilization
+macromolecule
+magnetic quantum number
+malleability
+marine biochemistry
+masking agent
+mass concentration
+mass fraction
+mass number
+mass spectrometry
+massic heat capacity
+melting point
+mercaptan
+mercapto
+metalloid
+metathesis
+methyl
+methylene blue
+microcentrifuge tube
+miscibility
+moiety
+mol
+molal concentration
+molality
+molar attenuation coefficient
+molar concentration
+molar fraction
+molar mass
+molarity
+mole
+mole fraction
+molecular bond
+molecular formula
+molecular orbital
+molecular orbital diagram
+molecular weight
+molecule
+monatomic
+natural abundance
+neutron
+noble gas
+noble gases
+nonpolar compound
+nuclear chemistry
+number density
+olefin
+optical activity
+orbital
+orbital hybridisation
+orbital hybridization
+order of reaction
+organic acid
+organic base
+organic chemistry
+organic compound
+organic redox reaction
+organosulfur compound
+osmolarity
+osmosis
+osmotic concentration
+osmotic pressure
+oxacid
+oxidant
+oxidation
+oxidation number
+oxidation state
+oxidizer
+oxidizing agent
+oxoacid
+oxyacid
+paired electron
+paraffin
+partial pressure
+partition coefficient
+passivation
+pendant group
+pentabasic
+pentoxide
+pentyl
+peracid
+periodic table
+periodic table of the elements
+peroxide
+peroxo
+peroxy
+phenyl
+phi bond
+physical chemistry
+pi bond
+pipette
+pnictogen
+pnictogens
+polarity
+polyatomic
+polyatomic ion
+polymerization
+precipitant
+precipitate
+propyl
+protective group
+protic
+protogenic
+proton
+proton number
+protonation
+pure substance
+pyrochemistry
+pyrolysis
+racemate
+rare earth element
+rare earth metal
+rate determining step
+rate equation
+ratelimiting step
+reactant
+reaction barrier
+reaction mechanism
+reaction rate
+reaction rate constant
+reactive bond
+reactive intermediate
+reactivity series
+reagent
+redox
+reducing agent
+reduction potential
+refractory
+reversible reaction
+rotamer
+round bottom flask
+saline solution
+salt bridge
+saturation
+scintillation
+second-order reaction
+semipolar bond
+serial dilution
+side chain
+single bond
+solid phase extraction
+solubility
+solubility product
+solute
+solvated electron
+solvation
+solvation shell
+solvent
+sonication
+spatial isomer
+specific heat capacity
+spectrochemistry
+spelled pipet
+standard solution
+stepwise reaction
+stereocenter
+stereochemistry
+stereogenic center
+stereoisomer
+stoichiometry
+strong acid
+strong base
+structural isomer
+subatomic particle
+sublimation
+substance concentration
+substituent
+substitution reaction
+superheavy elements
+surface science
+surface tension
+surfactant
+ternary compound
+terpene
+tetrels
+theoretical yield
+thermal conductivity
+thermochemistry
+thermodynamic stability
+thermodynamics
+thiol
+titration
+titrimetry
+trace element
+transactinides
+transition metal
+transuranic elements
+transuranium elements
+triels
+triple bond
+triple point
+Tyndall effect
+ultrasonication
+UN number
+unit cell
+unit factor
+universal gas constant
+unpaired electron
+vacuum flask
+valence electron
+valency
+vaporization point
+viscosity
+volatility
+water of hydration
+wave function
+weak acid
+weak base
+wet chemistry
+wetting agent
+zero point energy
+zone melting
+zwitterion
